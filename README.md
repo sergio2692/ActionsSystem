@@ -1,4 +1,4 @@
-# ActionsSystem
+# ActionsSystem (K2Node Action)
 
 Actions system is a plugin with a k2 node that inherit from the construct objects node, it add more feature like:
 public variables exposed, exposed dispatchers, and have a subsystem that handle the life of the object.
@@ -11,7 +11,7 @@ The functionality is pretty easy, you need only to create a child class of UActi
 
 How you will see the public variables and dispatchers will show up as pin in the class (inherithed from UAction) that you created.
 
-# Main Methods
+# Main virtual Methods
 
 ![image](https://user-images.githubusercontent.com/13841147/152139448-f4b56773-b2fb-4da0-9e6c-8e4aecb83ee8.png)
 
