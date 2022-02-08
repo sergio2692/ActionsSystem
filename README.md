@@ -9,7 +9,7 @@ The main reason why i created this plugin is to give an easy way to have a compo
 The functionality is pretty easy, you need only to create a child class of UAction, and use the node RunAction to start the object.
 ![image](https://user-images.githubusercontent.com/13841147/152138981-f0c3e8e7-bdb0-4554-a3f8-95adebfc8d8b.png)
 
-How you will see the public variables and dispatchers will show up as pin.
+How you will see the public variables and dispatchers will show up as pin in the class (inherithed from UAction) that you created.
 
 # Main Methods
 
